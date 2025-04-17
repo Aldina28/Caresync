@@ -1,5 +1,4 @@
 <br/>
-<div align="center">
 
   <h1>CareSync</h1>
 
@@ -52,4 +51,3 @@ CareSync is an integrated digital healthcare platform designed to enhance the wa
 - **Security:** JWT for authentication
 - **Real-time Communication:** socket.io
 - **AI Engine:** Gemini LLM
-- **Validation:** Zod for schema validation
